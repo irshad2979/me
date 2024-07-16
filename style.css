@@ -1,0 +1,8 @@
+.text-img {
+    font-size: 110px;
+    background-image: url("./unnamed.jpg");
+    background-size: contain;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+font-weight: 200;
+}
